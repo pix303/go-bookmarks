@@ -2,9 +2,9 @@
 Track interesting sites, arcticles about Golang
 
 ## Best Practise
-https://www.gobeyond.dev/
+1. https://www.gobeyond.dev/
 
 
 ## Testing
-https://go.dev/blog/cover
-https://github.com/stretchr/testify
+1. https://go.dev/blog/cover
+1. https://github.com/stretchr/testify
